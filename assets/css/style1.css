@@ -1,0 +1,44 @@
+html, body, div, p, h1, h2, h3, h4, span, a {
+	margin: 0px;
+	padding: 0px;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #d9344a;;
+}
+
+#login_form{
+	text-align: center;
+	margin-top: 100px;
+}
+
+#reg{
+	text-align: center;
+	margin-top: 100px;
+}
+h1 {
+	margin-bottom: 20px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #fff;
+}
+#sub{
+	margin-top: 10px;
+}
+#entrance{
+	text-align: center;
+	margin-top: 100px;
+	font-size: 30px;
+}
+#battlefield{
+	color: white;
+}
+
+
